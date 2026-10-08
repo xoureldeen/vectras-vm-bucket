@@ -2,7 +2,7 @@
   {
     "rom_name": "3Dfx wrappers driver",
     "rom_icon": "https://static.wikia.nocookie.net/logopedia/images/a/aa/3dfx_logo.svg/revision/latest/scale-to-width-down/250?cb=20210710183633",
-    "rom_url": "https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/3dfx-wrappers-i686.iso",
+    "rom_url": "https://github.com/xoureldeen/Vectras-VM-Android/raw/refs/heads/master/3dfx/4.1.1+/3dfx-wrappers-i686.iso",
     "rom_path": "3dfx-wrappers-i686.iso",
     "rom_avail": true,
     "gui": false,
