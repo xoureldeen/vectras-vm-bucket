@@ -1,6 +1,6 @@
 {
     "aarch64":"https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/vectras-vm-arm64-v8a.tar.gz",
-    "aarch64_sha256": "sha256:d7216b09b75669c0fd51e383e6d6faea81f9f0e2d4addbd0a7d4f8c35a42e871",
+    "aarch64_sha256": "d7216b09b75669c0fd51e383e6d6faea81f9f0e2d4addbd0a7d4f8c35a42e871",
     "armhf": "",
     "amd64":"https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/vectras-vm-x86_64.tar.gz",
     "x86": "",
