@@ -1,7 +1,7 @@
 [
   {
     "rom_name": "KolibriOS",
-    "rom_icon": "https://github.com/xoureldeen/vectras-vm-bucket/blob/main/web/data/icons/kolibri.png",
+    "rom_icon": "https://raw.githubusercontent.com/xoureldeen/vectras-vm-bucket/main/web/data/icons/kolibri.png",
     "rom_url": "https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/KolibriOS.cvbi",
     "rom_path": "KolibriOS.cvbi",
     "rom_avail": true,
@@ -21,7 +21,7 @@
   },
   {
     "rom_name": "Damn Small Linux",
-    "rom_icon": "https://github.com/xoureldeen/vectras-vm-bucket/blob/main/web/data/icons/dsl.jpg",
+    "rom_icon": "https://raw.githubusercontent.com/xoureldeen/vectras-vm-bucket/main/web/data/icons/dsl.jpg",
     "rom_url": "https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/Damn.Small.Linux.cvbi",
     "rom_path": "Damn.Small.Linux.cvbi",
     "rom_avail": true,
