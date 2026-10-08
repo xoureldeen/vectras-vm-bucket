@@ -1,0 +1,23 @@
+[
+  {
+    "rom_name": "test title",
+    "rom_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvCAKQoeNzwZD_CTyNE1s6fJu6ectWHwfkbOLFhGRHYq6JGqZ5u7BVB7&s=10",
+    "rom_url": "test url",
+    "rom_path": "test rom",
+    "rom_avail": true,
+    "gui": true,
+    "rom_size": "test size",
+    "rom_arch": "X86_64",
+    "rom_kernel": "test kernel"
+    "rom_extra": "",
+    "final_rom_file_name": "",
+    "desc": "This Rom is for testing.",
+    "file_size": "1 GB",
+    "containsAds": true,
+    "creator": "test creator",
+    "verified": true,
+    "vecid": "test id",
+    "id": ""
+  }
+]
+

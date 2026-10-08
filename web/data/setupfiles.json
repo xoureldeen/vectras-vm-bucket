@@ -1,0 +1,9 @@
+{
+    "aarch64":"https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/vectras-vm-arm64-v8a.tar.gz",
+    "aarch64_sha256": "074dd7eba605aa2048c17a5377368aa25d76e0b1d83c81ac00577be973e9cd5d",
+    "armhf": "",
+    "amd64":"",
+    "x86": "",
+    "aarch64_adreno": "https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/mesa-26.1.0-devel-20260404_alpine_3-19_aarch64.tar.gz",
+    "aarch64_libglvnd": "https://github.com/xoureldeen/vectras-vm-bucket/releases/download/v1.0.0/libglvnd-1.7.0_alpine_3-19.tar.gz"
+}
