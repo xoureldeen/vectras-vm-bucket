@@ -1,24 +1,5 @@
 [
   {
-    "rom_name": "3Dfx wrappers driver",
-    "rom_icon": "https://static.wikia.nocookie.net/logopedia/images/a/aa/3dfx_logo.svg/revision/latest/scale-to-width-down/250?cb=20210710183633",
-    "rom_url": "https://github.com/AnBui2004/Vectras-VM-Emu-Android/blob/master/3dfx/3dfx-wrappers-3.5.0.iso",
-    "rom_path": "3dfx-wrappers-3.5.0.iso",
-    "rom_avail": true,
-    "gui": false,
-    "rom_size": "3.5.0",
-    "rom_arch": "X86_64",
-    "rom_kernel": "",
-    "rom_extra": "",
-    "final_rom_file_name": "",
-    "desc": "Play retro games on Windows 95, 98, ME, 2000, and XP with improved performance.",
-    "file_size": "1 MB",
-    "creator": "Nguyen Bao An Bui",
-    "verified": true,
-    "vecid": "3dfxwrappers349iso",
-    "id": ""
-  },
-  {
     "rom_name": "7-Zip",
     "rom_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/250px-7-Zip_Icon.svg.png",
     "rom_url": "https://archive.org/details/7-zip_202512",
