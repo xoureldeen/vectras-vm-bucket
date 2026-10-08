@@ -8,7 +8,7 @@
     "gui": true,
     "rom_size": "test size",
     "rom_arch": "X86_64",
-    "rom_kernel": "test kernel"
+    "rom_kernel": "test kernel",
     "rom_extra": "",
     "final_rom_file_name": "",
     "desc": "This Rom is for testing.",
